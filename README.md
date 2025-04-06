@@ -1,5 +1,4 @@
 
-# 📘 ER Diagram: Bookstore Order Management System
 # 🚀 The SQL Project That Launched My Data Science Journey
 
 Every Data Scientist needs to get their hands dirty with data—and for me, it all started with this ER diagram.
