@@ -1,4 +1,3 @@
-
 # 🚀 The SQL Project That Launched My Data Science Journey
 
 Every Data Scientist needs to get their hands dirty with data—and for me, it all started with this ER diagram.
@@ -11,7 +10,7 @@ When I first looked at it, I didn’t just see boxes and lines. I saw structure.
 
 This database was originally built to manage a bookstore’s order system, but to me, it became so much more than that.
 
-- 🣍️ `customer` holds all the basic info about users.
+- 🧍‍♂️ `customer` holds all the basic info about users.
 - 💾 `cust_order` logs every order along with dates, shipping, and address.
 - 📚 `book` is connected with `author`, `publisher`, and even language—perfect for building a rich dataset.
 - 🔁 `order_history` lets me trace how each order changes over time.
@@ -45,9 +44,12 @@ This project wasn’t just about data—it was about discovering my path.
 
 ---
 
-This ER diagram represents the **database structure** of a **bookstore** or **online book ordering system**. It captures key entities, their attributes, and relationships involved in managing books, customers, orders, authors, and shipping.
+🚧 **Next Major Milestone: Bringing the Data to Life in Power BI!**
 
----
+After building the SQL backbone and uncovering insights through queries, the real magic happens when we *visualize* that data.
+Power BI is where I’ll transform raw numbers into dashboards, charts, and interactive stories. This step is all about making the data speak visually—turning insights into impact.
+Stay tuned as I take this project from backend logic to front-end storytelling with Power BI!
+
 # 📘 ER Diagram: Bookstore Order Management System
 
 ## 🔑 Main Entities & Relationships
