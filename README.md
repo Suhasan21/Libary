@@ -49,6 +49,7 @@ This project wasn’t just about data—it was about discovering my path.
 This ER diagram represents the **database structure** of a **bookstore** or **online book ordering system**. It captures key entities, their attributes, and relationships involved in managing books, customers, orders, authors, and shipping.
 
 ---
+# 📘 ER Diagram: Bookstore Order Management System
 
 ## 🔑 Main Entities & Relationships
 
